@@ -56,11 +56,9 @@ body{
 }
 .user{
     display: flex;
-    flex-wrap: wrap;
 }
 .user_second{
     display: flex;
-    flex-wrap: wrap;
 }
 .footer{
     display: flex;
